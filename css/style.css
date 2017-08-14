@@ -386,8 +386,8 @@ header nav span {
   line-height: 16px;
   font-size: 100%;
   color: white;
-  text-shadow: 0 1px #F3F781;
-  background: #e93631;
+  text-shadow: 0 1px #902a27;
+  background: #F3F781;
   border-radius: 2px;
   background-image: -webkit-linear-gradient(top, #f65d5f, #e93631);
   background-image: -moz-linear-gradient(top, #f65d5f, #e93631);
